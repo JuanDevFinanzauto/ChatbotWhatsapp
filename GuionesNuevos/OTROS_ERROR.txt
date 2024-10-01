@@ -1,0 +1,3 @@
+OTROS / ERROR CUANDO REALIZABA UNA TRANSACCIÓN / ERROR
+
+El error presentado se debe a que no se culminó la transacción que estaba realizando. El sistema procede a generar un bloqueo el cual se restablece en el trascurso de 12 a 24 horas. 

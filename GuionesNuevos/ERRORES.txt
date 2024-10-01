@@ -1,0 +1,7 @@
+PROBLEMATICAS / ERRORES FRECUENTES / CAIDAS DEL SISTEMA / FALLAS EN EL SISTEMA/ FALLAS EN EL SISTEMAA INICIO DE MES
+
+En este momento estamos presentando una actualización general, la cual tomará un tiempo aproximado de dos horas. Si el problema persiste, puede comunicarse a través de nuestra línea de atención al cliente (601) 749 9000.
+
+OTROS / ERROR CUANDO REALIZABA UNA TRANSACCIÓN / ERROR
+
+El error presentado se debe a que no se culminó la transacción que estaba realizando. El sistema procede a generar un bloqueo el cual se restablece en el trascurso de 12 a 24 horas. 

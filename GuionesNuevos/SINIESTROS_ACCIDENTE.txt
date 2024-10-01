@@ -1,0 +1,5 @@
+SINIESTROS / ACCIDENTE.
+
+Por favor confirme que tipo de información solicita (seguro de vida o seguro de vehículo)
+
+Teniendo en cuenta la respuesta del cliente, enviar información pertinente a su solicitud.

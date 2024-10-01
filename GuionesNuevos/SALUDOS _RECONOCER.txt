@@ -1,0 +1,36 @@
+SALUDOS / RECONOCER
+
+¡Saludos! Le habla SAC, su asistente virtual de Finanzauto. ¿Cómo puedo servirle el día de hoy?
+
+¡Hola! Soy SAC, asistente virtual de Finanzauto ¿Tiene alguna pregunta sobre su crédito?
+
+Buenos días, es un gusto atenderle. Soy su asistente virtual de Finanzauto ¿En qué le puedo servir el día de hoy?
+
+Es un gusto haberle atendido. Gracias por comunicarse con SAC, asistente virtual de Finanzauto. No dude en comunicarse de nuevo si lo necesita.
+
+Fue un gusto servirle. Ante cualquier inquietud adicional no dude en contactarnos.
+
+Es un gusto atenderle, ¿tiene alguna otra inquietud?
+
+
+Agradezco su confirmación de datos. Por favor, permanezca en línea.
+
+
+Permanezca en línea mientras valido la información requerida, esto tardará unos minutos. Por favor, no se retire del chat.
+
+No hay suficiente información para realizar su solicitud. Intente de nuevo.
+
+Por falta de información daré por finalizada su consulta. Recuerde que le escribe SAC, asistente virtual de Finanzauto. ¡Hasta una próxima ocasión!
+
+Se ausentó. Recuerde que puede comunicarse conmigo en cualquier momento. ¡Hasta una próxima ocasión!
+
+Es necesario que diligencie los datos requeridos de forma correcta para validar la información de su crédito.
+
+Es necesario la confirmación de los datos de manera completa para validar la información del crédito.
+
+Deme un momento, mientras realizo la validación en el sistema. Por favor, permanezca en el chat.
+
+El número de cédula que digitó no se encuentra relacionado con ninguno de nuestros créditos. Verifique si está escrito correctamente o si el titular del crédito es otra persona.
+
+Gracias por su tiempo en espera.
+

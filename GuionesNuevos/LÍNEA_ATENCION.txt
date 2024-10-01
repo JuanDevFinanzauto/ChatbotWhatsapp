@@ -1,0 +1,11 @@
+LÍNEA DE ATENCION AL CLIENTE / TELEFONO DE ATENCION / NUMERO DE CONTACTO FINANZAUTO
+
+•	Atención al cliente vía telefónica: (601) 749 9000.
+Horario de lunes a viernes de 07:00 a.m. a 07:00 p.m. 
+Sábados de 08.00 a.m. a 01:00 p.m.
+
+
+
+next_node_name = node_function(state)
+
+state.incoming_msg.strip()
